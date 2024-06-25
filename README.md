@@ -12,7 +12,7 @@ This repository contains code for predicting the function of proteins using Conv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/ade-wagimon/Protein-Function-Prediction-Using-Convolutional-Neural-Networks.git
    cd repository
    ```
 
